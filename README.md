@@ -8,4 +8,4 @@ https://saravanan191207.github.io/Front-End-Development-/registration.html
 
 https://saravanan191207.github.io/Front-End-Development-/notice.html
 
-![Uploading image.png…]()
+<img width="1401" height="717" alt="image" src="https://github.com/user-attachments/assets/36c5d875-f614-4178-bd09-8218c863b7c2" />
